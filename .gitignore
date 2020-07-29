@@ -1,0 +1,11 @@
+# Project exclude paths
+/Algorithm/target/
+/DataStructures/target/
+.idea
+Algorithm.iml
+
+# Project exclude paths
+/Data Structures and Algorithms/Algorithm/target/
+/Data Structures and Algorithms/AlgorithmBook/target/
+/Data Structures and Algorithms/DataStructures/target/
+/LearningDemo/target/
