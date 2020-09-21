@@ -1,6 +1,6 @@
 package control;
 
-import static onjava.Range.range;
+import static utils.Range.range;
 
 /**
  * @author lanqilu

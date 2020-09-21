@@ -1,11 +1,11 @@
 # Project exclude paths
-/Algorithm/target/
-/DataStructures/target/
 .idea
-Algorithm.iml
-
-# Project exclude paths
-/Data Structures and Algorithms/Algorithm/target/
-/Data Structures and Algorithms/AlgorithmBook/target/
-/Data Structures and Algorithms/DataStructures/target/
+/Algorithm/target/
+/AlgorithmBook/target/
+/AlgorithmBookExercise/target/
+/CoreJava/target/
+/DataStructures/target/
+/DataStructures/target/
+/LearningDemo/target/
+/Nutshell/target/
 /LearningDemo/target/

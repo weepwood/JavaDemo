@@ -5,7 +5,7 @@ package array;
  * @package array
  * @date Created in 2020/07/29  08:07
  * @description 一维数组的使用
- **/
+ */
 public class Array {
     public static void main(String[] args) {
 
