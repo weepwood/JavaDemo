@@ -16,6 +16,7 @@
         <module>Algorithm</module>
         <module>LearningDemo</module>
         <module>CoreJava</module>
+        <module>TimeInterval</module>
     </modules>
 
     <dependencies>
