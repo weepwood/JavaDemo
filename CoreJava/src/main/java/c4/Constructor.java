@@ -11,6 +11,8 @@ public class Constructor {
     public static void main(String[] args) {
         Date birthday = new Date();
         Date deadline;
+        System.out.println(birthday);
+        System.out.println(birthday.toString());
 
     }
 }
