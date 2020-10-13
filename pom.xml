@@ -19,6 +19,7 @@
         <module>TimeInterval</module>
         <module>ThinkingInJava</module>
         <module>Log4jDemo</module>
+        <module>OnJava8</module>
     </modules>
 
     <dependencies>

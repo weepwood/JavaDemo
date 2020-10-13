@@ -15,7 +15,7 @@
 ### ThinkingInJava
 参考书籍《Java编程思想》(第4版)
 + initialization 第5章初始化
-+ holding 持有对象
++ collections 持有对象
 ### DataStructures
 
 ### LearningDemo
