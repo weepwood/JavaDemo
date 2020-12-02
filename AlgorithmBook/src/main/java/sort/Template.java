@@ -47,12 +47,10 @@ public class Template {
 
     public static void main(String[] args) {
         // 从标准输入读取字符串，将它们排序并输出
-        String[] a = StdIn.readAllStrings();
-        System.out.println(a);
+        String[] a = {"S","O","R","T","E","X","A","M","P","L","E"};
         sort(a);
         assert isSorted(a);
         show(a);
-        System.out.println("hello");
     }
 
 }

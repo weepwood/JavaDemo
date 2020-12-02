@@ -1,11 +1,7 @@
 # Project exclude paths
 .idea
-/Algorithm/target/
-/AlgorithmBook/target/
-/AlgorithmBookExercise/target/
-/CoreJava/target/
-/DataStructures/target/
-/DataStructures/target/
-/LearningDemo/target/
-/Nutshell/target/
-/LearningDemo/target/
+.vscode
+*/.settings
+*/target
+*/.project
+

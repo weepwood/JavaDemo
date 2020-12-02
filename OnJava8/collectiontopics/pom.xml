@@ -11,9 +11,6 @@
 
     <artifactId>collectiontopics</artifactId>
     <packaging>pom</packaging>
-    <modules>
-        <module>com</module>
-    </modules>
 
 
 </project>

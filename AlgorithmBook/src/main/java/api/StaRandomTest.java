@@ -3,10 +3,11 @@ package api;
 import edu.princeton.cs.algs4.StdRandom;
 import org.junit.Test;
 
+
 /**
  * @author lanqilu
  * @date Created in 2020/08/08  10:26
- * @description 随机数静态方法库
+ * @description 随机数静态方法库的API
  */
 public class StaRandomTest {
     @Test
@@ -31,11 +32,12 @@ public class StaRandomTest {
     }
 
     @Test
-    public void shuffleTest(){
-        double[] a = {1,2,3,4,5};
+    public void shuffleTest() {
+        // 随机将double数组中的元素排序
+        double[] a = {1, 2, 3, 4, 5};
         StdRandom.shuffle(a);
         for (double i : a) {
-            System.out.print(i+",");
+            System.out.print(i + ",");
         }
     }
 

@@ -15,7 +15,8 @@
 ### ThinkingInJava
 参考书籍《Java编程思想》(第4版)
 + initialization 第5章初始化
-+ collections 持有对象
++ collections 集合
++ functional 函数式编程
 ### DataStructures
 
 ### LearningDemo
@@ -25,3 +26,10 @@
 ### TimeInterval
 
 Java获取程序运行时间的几种方式
+
+### OnJava8
+
+OnJava8源码
+
+### MadeEasy
+参考书籍《数据结构与算法经典问题解析（Java语言描述）》Narasimha Karumanchi著

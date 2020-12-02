@@ -10,7 +10,7 @@ import java.util.ArrayList;
  */
 public class Io {
     public static void main(String[] args) {
-        readFileByLines("E:\\Desktop\\Repositories\\LearnJava\\AlgorithmBook\\src\\main\\resources\\tinyT.txt");
+        readFileByLines("E:\\OneDrive - lanqilu\\我的项目库\\JavaDemo\\AlgorithmBook\\src\\main\\resources\\tinyT.txt");
     }
 
     public static ArrayList<Integer> readFileByLines(String path) {
@@ -31,6 +31,5 @@ public class Io {
             e.printStackTrace();
         }
         return arrayList;
-
     }
 }

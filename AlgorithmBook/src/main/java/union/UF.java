@@ -10,7 +10,7 @@ import java.security.PublicKey;
  * @description
  */
 public class UF {
-    // access to component id
+    // 分量id(以触点作为索引)
     private int[] id;
     // number of components
     private int count;
@@ -20,7 +20,7 @@ public class UF {
         count = N;
         id = new int[N];
         for (int i = 0; i < N; i++) {
-            id[i] =i;
+            id[i] = i;
         }
     }
 

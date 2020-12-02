@@ -19,7 +19,8 @@ public class BadMicroBenchmark {
             System.out.println("parallelSetAll: " +
                     Timer.duration(() ->
                             Arrays.parallelSetAll(la, n -> n)));
-        } catch (OutOfMemoryError e) {
+        }
+        catch (OutOfMemoryError e) {
             System.out.println("Insufficient memory");
             System.exit(0);
         }

@@ -62,7 +62,9 @@ public class SelectionSort {
 
     public static void main(String[] args) {
         // 排序并输出
-        Comparable[] a = {1,2,3,4,3,2,1};
+//        Comparable[] a = {1, 2, 3, 4, 3, 2, 1};
+        String[] a = {"S", "O", "R", "T", "E", "X", "A", "M", "P", "L", "E"};
+        show(a);
         sort(a);
         assert isSorted(a);
         show(a);
